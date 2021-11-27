@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <metadata>
+        <name>CheckIssue17654Fix</name>
+        <type>plugin</type>
+        <creationDate>2021-11-27</creationDate>
+        <last_update>2021-11-27</last_update>
+        <author>Denis Chenu</author>
+        <authorUrl>https://www.sondages.pro</authorUrl>
+        <license>MIT</license>
+        <version>0.1.0</version>
+        <description><![CDATA[Check issue 17654 fix https://github.com/LimeSurvey/LimeSurvey/pull/2087.]]></description>
+    </metadata>
+
+    <compatibility>
+        <version>5.0</version>
+    </compatibility>
+
+    <updaters disabled="disabled">
+    </updaters>
+</config>
