@@ -15,7 +15,7 @@ Test issue fix
     [7] => eventName getPluginTwigPath ,  function beforeQuestionRender, line 43
 ```
 
-Issue at 4
+Issue at 4 and 7
 
 ## After fix
 
@@ -30,4 +30,9 @@ Issue at 4
     [7] => eventName beforeQuestionRender ,  function beforeQuestionRender, line 43
 ```
 
-OK at 4
+OK at 4 and 7
+
+## Issues ?
+
+- Plugin with own plugin event ?
+- Plugin use new event inside previous event ? ( i know none)
