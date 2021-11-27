@@ -1,6 +1,6 @@
 # CheckIssue17654Fix
 
-Test issue fix
+Test issue fix https://github.com/LimeSurvey/LimeSurvey/pull/2087
 
 ## Before fix
 
